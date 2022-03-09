@@ -1,0 +1,10 @@
+.caja{
+    border: solid;
+    margin:0 auto;
+    width: 50%;
+}
+.caja .mifoto{
+border-radius: 2em;
+box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.8);
+cursor: pointer;
+}
